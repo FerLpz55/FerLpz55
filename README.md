@@ -42,6 +42,6 @@ width="28" /></h2></summary>
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FerLpz55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FerLpz55&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerLpz55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=FerLpz55&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de FerLpz55" width="450"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerLpz55&theme=dark&hide_border=false" alt="Racha de GitHub de FerLpz55" width="400"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerLpz55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados por FerLpz55" width="320"/>
