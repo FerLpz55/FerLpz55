@@ -18,8 +18,10 @@ width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ferlpz445/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pepetortu/)
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pepetortu/) 
 </p>
+
 
 <summary><h2 style="font-size: 1.8em;"><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
 width="28" /> My Tools</h2></summary>
