@@ -239,6 +239,10 @@ function percent(value) {
   return `${value.toFixed(value >= 10 ? 0 : 1)}%`;
 }
 
+function daysLabel(value) {
+  return `${value} day${value === 1 ? "" : "s"}`;
+}
+
 function text(x, y, value, color, options = {}) {
   const attributes = [
     `x="${x}"`,
@@ -380,11 +384,14 @@ function contributionsSvg(snapshot, themeName) {
         }
       }
 
-      return (week.contributionDays || []).map((day, dayIndex) => `
+      return (week.contributionDays || []).map((day) => {
+        const dayIndex = new Date(`${day.date}T00:00:00Z`).getUTCDay();
+        return `
         <rect x="${gridX + weekIndex * step}" y="${gridY + dayIndex * step}" width="${cell}" height="${cell}" rx="3" fill="${contributionColor(theme, day.contributionCount, maximum)}">
           <title>${escapeXml(`${day.date}: ${day.contributionCount} contributions`)}</title>
         </rect>
-      `).join("");
+      `;
+      }).join("");
     }).join("");
 
     const labels = [0, 1, 3, 5].map((dayIndex) => text(28, gridY + dayIndex * step + 9, weekdayLabels[dayIndex], theme.muted, { size: 10 })).join("");
@@ -393,7 +400,7 @@ function contributionsSvg(snapshot, themeName) {
     return `
       <circle cx="43" cy="42" r="7" fill="${theme.accent}" filter="url(#softGlow)" />
       ${text(62, 47, "CONTRIBUTION MATRIX", theme.text, { size: 16, weight: 700, spacing: 2 })}
-      ${text(62, 70, `${compactNumber(snapshot.contributions)} contributions | current streak: ${snapshot.currentStreak} days | longest: ${snapshot.longestStreak} days`, theme.muted, { size: 12 })}
+      ${text(62, 70, `${compactNumber(snapshot.contributions)} contributions | current streak: ${daysLabel(snapshot.currentStreak)} | longest: ${daysLabel(snapshot.longestStreak)}`, theme.muted, { size: 12 })}
       ${labels}
       ${monthLabels.join("")}
       ${cells}
