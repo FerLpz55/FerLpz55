@@ -24,6 +24,13 @@ jobs:
         with:
           node-version: 20
 
+      - name: Generate custom GitHub statistics
+        run: node .github/scripts/generate-profile-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: FerLpz55
+          PROFILE_OUTPUT_DIR: dist
+
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
@@ -33,13 +40,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate custom GitHub statistics
-        run: node .github/scripts/generate-profile-stats.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: FerLpz55
-          PROFILE_OUTPUT_DIR: dist
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
