@@ -14,7 +14,6 @@
 - Java backend developer (Spring Boot, Spring Data JPA, Spring AI, REST APIs)
 - Frontend developer (Angular, TypeScript, Next.js, Astro, Tailwind CSS)
 - Participant of **No Country S15** (APP-BIT team: Java backend + AI features)
-- Finalist / participant of **LagunaHack 2026** (TecNM La Laguna)
 - I build full-stack applications: from database schema to deployed production app
 
 ## Featured projects
