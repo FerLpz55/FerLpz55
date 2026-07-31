@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate profile assets
 
 on:
   schedule:
@@ -16,6 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
@@ -25,6 +33,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate custom GitHub statistics
+        run: node .github/scripts/generate-profile-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: FerLpz55
+          PROFILE_OUTPUT_DIR: dist
+
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -32,3 +48,5 @@ jobs:
           publish_dir: dist
           publish_branch: output
           destination_dir: .
+          force_orphan: true
+          commit_message: "chore: refresh generated profile assets"
