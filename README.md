@@ -2,7 +2,7 @@
 
 # Fernando Rodriguez Lopez
 
-### Student developer — backend with **Java / Spring Boot**, frontend with **Angular & TypeScript**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6DB33F&center=true&vCenter=true&width=640&lines=Java+%2B+Spring+Boot+backend+developer;Angular+%2B+TypeScript+frontend;No+Country+S15+%E2%80%94+APP-BIT+team;Building+Bean+Trust;Full-stack+from+DB+schema+to+production)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferlpz445/)
 [![GitHub](https://img.shields.io/badge/GitHub-FerLpz55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerLpz55)
@@ -63,10 +63,19 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FerLpz55&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerLpz55&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://grs.quantumly.dev/api?username=FerLpz55&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub streak](https://streak-stats.demolab.com/?user=FerLpz55&theme=dark&hide_border=true&date_format=j%2Fn%5BY%5D)](https://git.io/streak-stats)
+[![Top languages](https://grs.quantumly.dev/api/top-langs/?username=FerLpz55&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=FerLpz55&theme=onedark&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FerLpz55&theme=github-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/FerLpz55/FerLpz55/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
