@@ -63,9 +63,8 @@
 
 <div align="center">
 
-[![GitHub stats](https://grs.quantumly.dev/api?username=FerLpz55&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub streak](https://streak-stats.demolab.com/?user=FerLpz55&theme=dark&hide_border=true&date_format=j%2Fn%5BY%5D)](https://git.io/streak-stats)
-[![Top languages](https://grs.quantumly.dev/api/top-langs/?username=FerLpz55&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FerLpz55&theme=github-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
