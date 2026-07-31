@@ -21,10 +21,10 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **APP-BIT** | Team project for No Country S15: job-matching platform for developers with AI assistance. Backend with Spring Boot 3, Java 21, Spring AI, PostgreSQL and Docker, deployed in production. | Java 21, Spring Boot 3, Spring AI, PostgreSQL, Docker | [repo](https://github.com/No-Country-simulation/Simulacion-project-Equipo-79-APP-BIT) |
-| **Laguna Hack 2026** | Official website of the LagunaHack 2026 hackathon: event info, team registration with validation, itinerary and committee, backed by Supabase. Deployed on Vercel. | Angular 20, TypeScript, Supabase, Vercel | [repo](https://github.com/FerLpz55/tecnm-frontend-2026) · [demo](https://lagunahack2026.vercel.app) |
-| **Emprende Digital** | LagunaHack 2026 proposal: digital entrepreneurship platform (courses, mentoring, community) with Next.js App Router, React 19 and Tailwind CSS v4. | Next.js 16, React 19, TypeScript, Tailwind CSS 4 | [repo](https://github.com/FerLpz55/LagunaHack2026Propuesta) |
-| **Exoplanets Lab** | Educational web app about exoplanets: interactive transit-method simulator on HTML canvas, quiz and exploration sections. | Astro 5, TypeScript, Canvas API | [repo](https://github.com/FerLpz55/exoplanetslab) |
+| **Exoplanets Lab** | Interactive educational web app about exoplanets: transit-method simulator on HTML canvas, quiz and exploration sections. Team project, deployed on Vercel. | Astro 5, TypeScript, Canvas API | [repo](https://github.com/InesLlergo/Exoplanets-lab) · [demo](https://exoplanetslab.vercel.app/lab) |
+| **Benchmark AI Agents** | No Country team 19: AI maturity benchmark for data centers. FastAPI backend with benchmark engine, 5-dimension scoring, percentiles, dynamic rebalancing and PDF reports via Puppeteer. | Python 3.12, FastAPI, PostgreSQL, Docker | [repo](https://github.com/FerLpz55/Benchmark-de-Madurez-AI-AgentsS07-26-Team-19) |
+| **APP-BIT** | No Country S15 team project: B2B inclusive job-matching platform with AI assistance. Backend with Spring Boot 3, Java 21, Spring AI, PostgreSQL and Docker, deployed in production. | Java 21, Spring Boot 3, Spring AI, PostgreSQL, Docker | [repo](https://github.com/FerLpz55/Simulacion-project-Equipo-79-APP-BIT) |
+| **github-time-machine** | AI-powered engineering intelligence platform that reconstructs code history, explains architectural decisions and predicts risky changes. | Python, FastAPI, Next.js, Supabase, OpenAI | [repo](https://github.com/FerLpz55/github-time-machine) |
 
 ## Technologies
 
