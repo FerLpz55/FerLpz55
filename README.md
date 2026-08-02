@@ -76,6 +76,23 @@
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-02A1C9?style=for-the-badge&logo=tesseract&logoColor=white)
 ![faster-whisper](https://img.shields.io/badge/faster--whisper-1B6AC9?style=for-the-badge&logo=openai&logoColor=white)
 
+## Certifications
+
+**Google Cloud**
+
+![Cloud Fundamentals](https://img.shields.io/badge/Cloud_Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Data ML AI](https://img.shields.io/badge/Data,_ML_%26_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Networking & Security](https://img.shields.io/badge/Networking_%26_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Oracle / Alura LATAM**
+
+![Backend Formation G6](https://img.shields.io/badge/Backend_Formation_G6-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Personal Development](https://img.shields.io/badge/Personal_Development-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**IBM**
+
+![Educathon AI](https://img.shields.io/badge/Educathon_AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
 ## GitHub stats
 
 <div align="center">
