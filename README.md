@@ -1,5 +1,14 @@
 <div align="center">
 
+```text
+██████╗ ███████╗██████╗ ███████╗████████╗ ██████╗ ██████╗ ████████╗██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚══██╔══╝██║   ██║
+██████╔╝█████╗  ██████╔╝█████╗     ██║   ██║   ██║██████╔╝   ██║   ██║   ██║
+██╔═══╝ ██╔══╝  ██╔═══╝ ██╔══╝     ██║   ██║   ██║██╔══██╗   ██║   ██║   ██║
+██║     ███████╗██║     ███████╗   ██║   ╚██████╔╝██║  ██║   ██║   ╚██████╔╝
+╚═╝     ╚══════╝╚═╝     ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ 
+```
+
 # Fernando Rodriguez Lopez
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6DB33F&center=true&vCenter=true&width=640&lines=Java+%2B+Spring+Boot+backend+developer;Angular+%2B+TypeScript+frontend;No+Country+S15+%E2%80%94+APP-BIT+team;Building+Bean+Trust;Full-stack+from+DB+schema+to+production)](https://git.io/typing-svg)
