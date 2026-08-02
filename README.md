@@ -59,6 +59,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**AI / ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-02A1C9?style=for-the-badge&logo=tesseract&logoColor=white)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-1B6AC9?style=for-the-badge&logo=openai&logoColor=white)
+
 ## GitHub stats
 
 <div align="center">
