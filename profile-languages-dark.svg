@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="350" viewBox="0 0 1000 350" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Programming languages used by FerLpz55</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#39d353" />
+      <stop offset="1" stop-color="#58a6ff" />
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="350" rx="18" fill="#0d1117" />
+  
+      <circle cx="43" cy="42" r="7" fill="#58a6ff" filter="url(#softGlow)" />
+      <text x="62" y="47" fill="#f0f6fc" font-size="16" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="2">LANGUAGE DNA</text>
+      <text x="62" y="70" fill="#8b949e" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="400">Own public repositories / measured by bytes</text>
+      
+            <circle cx="42" cy="88" r="6" fill="#3572A5" />
+            <text x="60" y="93" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">Python</text>
+            <rect x="220" y="76" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="76" width="219.65688112121623" height="12" rx="6" fill="#3572A5" />
+            <text x="920" y="87" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">34%</text>
+          
+            <circle cx="42" cy="122" r="6" fill="#3178c6" />
+            <text x="60" y="127" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">TypeScript</text>
+            <rect x="220" y="110" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="110" width="216.82706392683997" height="12" rx="6" fill="#3178c6" />
+            <text x="920" y="121" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">33%</text>
+          
+            <circle cx="42" cy="156" r="6" fill="#ff5a03" />
+            <text x="60" y="161" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">Astro</text>
+            <rect x="220" y="144" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="144" width="130.02825721945183" height="12" rx="6" fill="#ff5a03" />
+            <text x="920" y="155" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">20%</text>
+          
+            <circle cx="42" cy="190" r="6" fill="#663399" />
+            <text x="60" y="195" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">CSS</text>
+            <rect x="220" y="178" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="178" width="45.361027718536675" height="12" rx="6" fill="#663399" />
+            <text x="920" y="189" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">7.0%</text>
+          
+            <circle cx="42" cy="224" r="6" fill="#e34c26" />
+            <text x="60" y="229" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">HTML</text>
+            <rect x="220" y="212" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="212" width="33.46228117980979" height="12" rx="6" fill="#e34c26" />
+            <text x="920" y="223" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">5.1%</text>
+          
+            <circle cx="42" cy="258" r="6" fill="#384d54" />
+            <text x="60" y="263" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">Dockerfile</text>
+            <rect x="220" y="246" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="246" width="8" height="12" rx="6" fill="#384d54" />
+            <text x="920" y="257" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">0.5%</text>
+          
+            <circle cx="42" cy="292" r="6" fill="#f1e05a" />
+            <text x="60" y="297" fill="#f0f6fc" font-size="13" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600">JavaScript</text>
+            <rect x="220" y="280" width="650" height="12" rx="6" fill="#21262d" stroke="#30363d" />
+            <rect x="220" y="280" width="8" height="12" rx="6" fill="#f1e05a" />
+            <text x="920" y="291" fill="#f0f6fc" font-size="12" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" text-anchor="end">0.2%</text>
+          
+      <text x="42" y="326" fill="#8b949e" font-size="10" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="400">7 languages detected | 317.4K bytes analyzed</text>
+    
+</svg>
